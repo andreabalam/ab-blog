@@ -23,6 +23,8 @@ A little about SolidJS:
 ## Runtime performance benchmark
 ![Runtime performance benchmark](src/assets/runtime%20performance%20benchmarks.png)
 
+## Consideraciones!
+
 
 ## Start set up
 ```
